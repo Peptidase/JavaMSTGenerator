@@ -1,4 +1,4 @@
-package Lab7;
+
 
 /*
  *  Abstract class for representing graphs.  Implementations should
